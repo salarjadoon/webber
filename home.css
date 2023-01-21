@@ -1,0 +1,542 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Mulish", sans-serif;
+}
+.p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+header {
+  background-color: linear-gradient(
+    180deg,
+    rgba(165, 243, 252, 0.1) 23.31%,
+    rgba(165, 243, 252, 0.05) 109.14%
+  );
+  height: 100vh;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 80px;
+  padding-bottom: 0px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+
+  white-space: nowrap;
+}
+
+.SIGN {
+  background: #cffafe;
+  border: none;
+}
+
+.signinlink {
+  color: #0e7490;
+  text-decoration: none;
+  border: transparent;
+  padding: 12px 20px;
+  white-space: nowrap;
+}
+.logo {
+  width: 65px;
+}
+
+.mainheading h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1f2937;
+  font-size: 96px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-top: 125px;
+  text-align: center;
+}
+.buttonss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 78px;
+  text-decoration: none;
+}
+.button2 {
+  color: #ffffff;
+  background: linear-gradient(
+    274.03deg,
+    #06b6d4 0%,
+    #0e7490 0.01%,
+    #0284c7 100%
+  );
+  padding: 16px 32px;
+  border: none;
+}
+.button3 {
+  background: #cffafe;
+  color: #0e7490;
+  padding: 16px 32px;
+  border: none;
+}
+.signn {
+  height: 38px;
+}
+
+.section2 {
+  padding: 80px 80px;
+  padding-bottom: 0px;
+}
+.container {
+  height: 268px;
+  background: linear-gradient(
+    274.03deg,
+    #06b6d4 0%,
+    #0e7490 0.01%,
+    #0284c7 100%
+  );
+}
+
+.screen {
+  background-color: wheat;
+  max-width: 947px;
+  height: 628px;
+  margin: auto;
+  margin-top: -161px;
+  border-radius: 10px;
+}
+
+.section3 {
+  padding: 175px 165px;
+  padding-bottom: 0px;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading_tailor {
+  font-size: 60px;
+  text-align: center;
+  color: #1f2937;
+  font-family: system-ui;
+}
+.contents {
+  margin: 30px;
+  font-size: 24px;
+}
+
+.contentlast {
+  margin: 30px;
+  font-size: 24px;
+}
+
+.first3 {
+  display: flex;
+  text-align: center;
+  margin-top: 91px;
+}
+
+.last3 {
+  display: flex;
+  margin-top: 65px;
+  text-align: center;
+}
+.section4 {
+  margin-top: 169px;
+}
+
+.headinng {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1f2937;
+  font-size: 60px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-top: 125px;
+}
+.signimage {
+  display: flex;
+  padding: 169px 120px 0px 180px;
+}
+
+.headinggg {
+  margin: 218px 173px 0px 0px;
+}
+.headinggg h1 {
+  font-size: 48px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.sectionimage2 {
+  margin-top: 34px;
+}
+.section5 {
+  max-width: 1440px;
+  height: 280px;
+  background: linear-gradient(
+    274.03deg,
+    #06b6d4 0%,
+    #0e7490 0.01%,
+    #0284c7 100%
+  );
+  margin-top: 260px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.picpara {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 80px;
+}
+
+.imgcontents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+.authordetails {
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+.jeryImage {
+  width: 60px;
+  height: 60px;
+}
+
+.paragraph {
+  max-width: 766px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: -0.01em;
+  font-feature-settings: "liga" off;
+  color: #ffffff;
+}
+.section6 {
+  max-width: 740px;
+  width: 100%;
+  height: 366px;
+  margin: 160px 350px;
+  margin-bottom: 0px;
+}
+
+.headiing {
+  text-align: center;
+}
+.logoimg {
+  margin-top: 73px;
+  gap: 20px;
+}
+.brands h1 {
+  font-family: Mulish;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 69px;
+  letter-spacing: -2px;
+}
+
+.section8 {
+  height: 382px;
+  max-width: 1440px;
+  width: 100%;
+
+  background: linear-gradient(
+    274.03deg,
+    #06b6d4 0%,
+    #0e7490 0.01%,
+    #0284c7 100%
+  );
+  margin-top: 299px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.numbersheading h1 {
+  font-family: Mulish;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: -0.02em;
+
+  color: #ffffff;
+}
+
+.numberpara {
+  margin-bottom: 200px;
+  margin-top: 80px;
+}
+.numbersheading p {
+  font-family: Mulish;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  color: #ffffff;
+  margin-top: 24px;
+}
+
+.section9 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  max-width: 1116px;
+  width: 100%;
+  height: 226px;
+  gap: 32px;
+  margin: -100px 164px;
+  margin-bottom: 0px;
+}
+
+.happybox {
+  max-width: 255px;
+  width: 100%;
+  height: 226px;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+
+.happyitems {
+  text-align: center;
+  padding: 75px 84px 68px 84px;
+}
+.happyitems p {
+  white-space: nowrap;
+}
+
+.projectbox {
+  max-width: 255px;
+  width: 100%;
+  height: 226px;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+
+.projectitems {
+  text-align: center;
+  padding: 75px 46px 68px 47px;
+}
+.projectitems p {
+  white-space: nowrap;
+}
+
+.memberbox {
+  max-width: 255px;
+  width: 100%;
+  height: 226px;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+.memberitems {
+  text-align: center;
+  padding: 75px 44px 68px 44px;
+}
+.memberitems p {
+  white-space: nowrap;
+}
+
+.Awardsbox {
+  max-width: 255px;
+  width: 100%;
+  height: 226px;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+
+.Awardsitems {
+  text-align: center;
+  padding: 75px 84px 68px 84px;
+}
+
+.Awardsitems p {
+  white-space: nowrap;
+}
+.section10 {
+  max-width: 792px;
+  width: 100%;
+  height: 234px;
+  margin: 153px 324px;
+  margin-bottom: 0px;
+}
+
+.marketheading h1 {
+  font-family: Mulish;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 62px;
+  letter-spacing: -2px;
+  text-align: center;
+}
+
+.marketbutton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.marketheading button {
+  margin: 60px 294px 0px 306px;
+  max-width: 192px;
+  width: 100%;
+  height: 50px;
+  font-family: Mulish;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  background: linear-gradient(
+    274.03deg,
+    #06b6d4 0%,
+    #0e7490 0.01%,
+    #0284c7 100%
+  );
+  border: none;
+} 
+
+footer {
+  background: #f4f4f5;
+  max-width: 1440px;
+  height: 373px;
+
+  margin-top: 152px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 81px 201px 60px 129px;
+}
+
+.webrimg {
+  margin-bottom: 32px;
+  max-width: 73px;
+  width: 100%;
+  height: 64px;
+  background-color: transparent;
+}
+
+.reservercls {
+  margin-top: 8px;
+}
+.copyrightpara {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #52525b;
+}
+.twiterimg {
+  margin: 41px 0px 84px 0px;
+}
+.twtr {
+  margin-right: 31px;
+}
+
+.companypara {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  max-width: 635px;
+  width: 100%;
+  height: 232px;
+}
+.companycls p {
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  color: #27272a;
+  margin-top: 12px;
+}
+.companycls h1 {
+  font-family: Mulish;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: -0.01em;
+  margin-bottom: 24px;
+}
+
+.supportcls {
+  margin-left: 30px;
+}
+
+.supportcls p {
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  color: #27272a;
+  margin-top: 12px;
+}
+.supportcls h1 {
+  font-family: Mulish;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: -0.01em;
+  margin-bottom: 24px;
+}
+
+.updatesbutton {
+  margin-left: 30px;
+}
+
+.updatesbutton h1 {
+  font-family: Mulish;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: -0.01em;
+  color: #27272a;
+}
+
+.emailbutton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px; 
+  max-width: 255px; 
+   
+  
+}
+.vectorcls {
+  background: linear-gradient(
+    274.03deg,
+    #06b6d4 0%,
+    #0e7490 0.01%,
+    #0284c7 100%
+  );
+  height: 36px;
+  width: 42px;
+  border: #0284c7;
+}
+.emailcls {
+  background: #ffffff;
+  border: none;
+  height: 38px;
+  width: 255px; 
+ padding-left: 12px;
+}
